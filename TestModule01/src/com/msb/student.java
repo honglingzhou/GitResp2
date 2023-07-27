@@ -7,5 +7,7 @@ package com.msb;
  * @version: 1.0
  */
 public class student {
-
+    private String name;
+    private int age;
+    private String sex;
 }
